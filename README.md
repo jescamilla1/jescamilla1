@@ -5,7 +5,7 @@
 <body>
  <h1>Get in Touch</h1>
  <div>
- <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="width: 30px; height: 30px;" /></a>
+ <a href="https://www.linkedin.com/in/jescamilla1/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="width: 30px; height: 30px;" /></a>
  </div>
  <h1>Skills</h1>
  <div>
