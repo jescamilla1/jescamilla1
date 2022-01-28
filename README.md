@@ -3,11 +3,11 @@
 </head>
 
 <body>
- <h1>Get in Touch</h1>
+ <h1>Get in Touch :mailbox:</h1>
  <div>
  <a href="https://www.linkedin.com/in/jescamilla1/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="width: 45px; height: 45px;" /></a>
  </div>
- <h1>Skills</h1>
+ <h1>Skills :computer:</h1>
  <div>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="width: 45px; height: 45px;" /></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="width: 45px; height: 45px;" /></a>
