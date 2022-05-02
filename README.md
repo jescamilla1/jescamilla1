@@ -17,7 +17,7 @@
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="width: 40px; height: 40px;"/></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="width: 40px; height: 40px;"/></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="width: 40px; height: 40px;"/></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gnubash/bash-original.svg" style="width: 40px; height: 40px;"/></a>
+  <a href="#"><img src="https://symbols.getvecta.com/stencil_75/34_bash-shell-icon.a56a03e1f5.svg" style="width: 40px; height: 40px;"/></a>
   
   
  </div>
