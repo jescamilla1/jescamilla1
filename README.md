@@ -1,7 +1,7 @@
 # Joan Escamilla
 
 **Full-Stack Developer · AI Automation & Agent Systems**  
-West New York, NJ · [LinkedIn](https://linkedin.com/in/jescamilla1) · joan.escamilla1@gmail.com
+NYC Metro Area · [LinkedIn](https://linkedin.com/in/jescamilla1) · joan.escamilla1@gmail.com
 
 ---
 
@@ -21,10 +21,10 @@ I build full-stack applications and embed AI into real workflows — designing a
 
 ## Stack
 
-**Languages** · JavaScript · Python · PHP · Java · C/C++ · Bash  
-**Frontend** · React · React Native · Tailwind CSS · Bootstrap · HTML/CSS  
-**Backend** · Flask · MySQL  
-**AI/Agents** · Anthropic Claude · Prompt Engineering · Ollama · Open Source LLMs  
+**Languages** · JavaScript · Python · PHP · Java · C/C++ · Bash  · ColdFusion
+**Frontend** · React · React Native · Tailwind CSS · Bootstrap · HTML/CSS/JS · JQuery
+**Backend** · Flask · MySQL  · SQL Server
+**AI/Agents** · Anthropic Claude · Prompt Engineering · Ollama · Open Source LLMs  · GitHub Copilot
 **Tools** · Git · Linux · Figma · MATLAB
 
 ---
@@ -42,4 +42,4 @@ I build full-stack applications and embed AI into real workflows — designing a
 
 ---
 
-*Open to on-site and hybrid roles in the NYC/NJ metro area.*
+
