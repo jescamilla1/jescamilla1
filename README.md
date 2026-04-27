@@ -1,21 +1,45 @@
-<h1 align="center">Hi 👋, I'm Joan</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+# Joan Escamilla
 
-- 🔭 I’m currently working on [Spotify Playlist Editor](https://github.com/jescamilla1/Spotify)
+**Full-Stack Developer · AI Automation & Agent Systems**  
+West New York, NJ · [LinkedIn](https://linkedin.com/in/jescamilla1) · joan.escamilla1@gmail.com
 
-- 🌱 I’m currently learning **React JS**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/jescamilla1](https://github.com/jescamilla1)
+I build full-stack applications and embed AI into real workflows — designing agents, engineering prompts, and shipping things that work. Background includes clinical software for an HIV/AIDS EMR platform and UI/UX work. Currently going deep on local AI infrastructure and agentic systems.
 
-- 📫 How to reach me **joan.escamilla1@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jescamilla1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jescamilla1" height="30" width="40" /></a>
-</p>
+## What I'm working on
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+| Project | Description |
+|---|---|
+| [AI-Assisted Trading Indicators](https://github.com/jescamilla1) | Custom PineScript indicators using AI for statistical analysis & trading zones — shared with a 3,000+ member Discord community |
+| Personal AI Assistant (Local Agent) | Self-hosted agent on a Mac Mini via Ollama + ClawdBot — skill modules, memory management, privacy-first |
+| [Spotify Playlist Editor](https://github.com/jescamilla1/Spotify) | Full-stack Spotify integration with playlist editing |
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jescamilla1&show_icons=true&locale=en&layout=compact" alt="jescamilla1" /></p>
+---
 
+## Stack
+
+**Languages** · JavaScript · Python · PHP · Java · C/C++ · Bash  
+**Frontend** · React · React Native · Tailwind CSS · Bootstrap · HTML/CSS  
+**Backend** · Flask · MySQL  
+**AI/Agents** · Anthropic Claude · Prompt Engineering · Ollama · Open Source LLMs  
+**Tools** · Git · Linux · Figma · MATLAB
+
+---
+
+## Certifications
+
+- **Teaching AI Fluency** — Anthropic, Apr 2026
+- **AI Fluency: Framework & Foundations** — Anthropic, Apr 2026
+
+---
+
+## Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=jescamilla1&show_icons=true&locale=en&layout=compact&theme=default)](https://github.com/jescamilla1)
+
+---
+
+*Open to on-site and hybrid roles in the NYC/NJ metro area.*
