@@ -1,4 +1,4 @@
-# Joan Escamilla
+# J Esca
 
 **Full-Stack Developer · AI Automation & Agent Systems**  
 NYC Metro Area · [LinkedIn](https://linkedin.com/in/jescamilla1) · joan.escamilla1@gmail.com
