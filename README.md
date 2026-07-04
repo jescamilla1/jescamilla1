@@ -41,5 +41,3 @@ I build full-stack applications and embed AI into real workflows — designing a
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=jescamilla1&show_icons=true&locale=en&layout=compact&theme=default)](https://github.com/jescamilla1)
 
 ---
-
-
