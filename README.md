@@ -1,43 +1,37 @@
-# J Esca
+---
 
-**Full-Stack Developer · AI Automation & Agent Systems**  
-NYC Metro Area · [LinkedIn](https://linkedin.com/in/jescamilla1) · joan.escamilla1@gmail.com
+**Bio:**
+AI Agent Developer | Building production agent systems for real-world problems | Full-stack engineer with focus on LLM integrations, system design, and scalability
 
 ---
 
-I build full-stack applications and embed AI into real workflows — designing agents, engineering prompts, and shipping things that work. Background includes clinical software for an HIV/AIDS EMR platform and UI/UX work. Currently going deep on local AI infrastructure and agentic systems.
+**Top Repositories** (revised descriptions):
+
+| Repository | Description | Language | Last Updated |
+| --- | --- | --- | --- |
+| AI-Skill-Vault | Curated prompt engineering patterns and agent system architectures for Claude-based production agents | — | 2026-06-08 |
+| jescamilla1.github.io | Portfolio & technical writing on agent development, system design, and production deployments | HTML | 2026-06-24 |
+| NYPD_Shooting_Prediction | Machine learning classification model; achieved [X]% accuracy predicting shooting incidents for public safety analysis | Jupyter Notebook | 2023-05-10 |
+| Personal_Projects | Production systems and completed projects: [list 2-3 most impressive: agent systems, APIs, data pipelines, or other relevant work] | PHP | 2023-05-10 |
+| Coding-Games | Algorithm and system design practice through competitive coding challenges | Python | 2022-11-22 |
 
 ---
 
-## What I'm working on
+**Suggested Profile README (to accompany the above):**
 
-| Project | Description |
-|---|---|
-| [AI-Assisted Trading Indicators](https://github.com/jescamilla1) | Custom PineScript indicators using AI for statistical analysis & trading zones — shared with a 3,000+ member Discord community |
-| Personal AI Assistant (Local Agent) | Self-hosted agent on a Mac Mini via Ollama + ClawdBot — skill modules, memory management, privacy-first |
-| [Spotify Playlist Editor](https://github.com/jescamilla1/Spotify) | Full-stack Spotify integration with playlist editing |
+## About Me
 
----
+AI engineer focused on building **production agent systems** that solve real-world problems—not toy demos. Full-stack background enables end-to-end system design: from agent prompt engineering and LLM orchestration to deployment and monitoring.
 
-## Stack
+### Recent Work
+- Built [agent system name/type]: [1-2 sentence impact: what problem, what result]
+- [2-3 additional concrete projects with metrics if available]
+- Active: Jun 2026 (97% commit activity)
 
-**Languages** · JavaScript · Python · PHP · Java · C/C++ · Bash  · ColdFusion
-**Frontend** · React · React Native · Tailwind CSS · Bootstrap · HTML/CSS/JS · JQuery
-**Backend** · Flask · MySQL  · SQL Server
-**AI/Agents** · Anthropic Claude · Prompt Engineering · Ollama · Open Source LLMs  · GitHub Copilot
-**Tools** · Git · Linux · Figma · MATLAB
-
----
-
-## Certifications
-
-- **Teaching AI Fluency** — Anthropic, Apr 2026
-- **AI Fluency: Framework & Foundations** — Anthropic, Apr 2026
-
----
-
-## Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=jescamilla1&show_icons=true&locale=en&layout=compact&theme=default)](https://github.com/jescamilla1)
+### Skills
+- LLM Orchestration & Prompt Engineering
+- Agent System Architecture
+- Python, [other languages], [relevant frameworks]
+- Production Deployment
 
 ---
