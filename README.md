@@ -1,5 +1,5 @@
 
-**Bio:**
+
 AI Agent Developer | Building production agent systems for real-world problems | Full-stack engineer with focus on LLM integrations, system design, and scalability
 
 ---
