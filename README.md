@@ -1,35 +1,31 @@
+### Hi, I'm Joan Escamilla
 
-AI Agent Developer | Building production agent systems for real-world problems | Full-stack engineer with focus on LLM integrations, system design, and scalability
+I build AI agents that close real engineering bottlenecks — not demos. Software Engineer at **RDE Systems**, where I'm the subject matter expert on the Medication Adherence module of an HIV/AIDS electronic medical records platform.
 
----
+I don't trust a fix until I know why it works — three years shipping production software is what makes these agents hold up outside a demo.
 
-**Top Repositories** (revised descriptions):
+**[joan's portfolio & writing →](https://jescamilla1.github.io)** · [LinkedIn](https://www.linkedin.com/in/jescamilla1/)
 
-| Repository | Description | Language | Last Updated |
-| --- | --- | --- | --- |
-| AI-Skill-Vault | Curated prompt engineering patterns and agent system architectures for Claude-based production agents | — | 2026-06-08 |
-| jescamilla1.github.io | Portfolio & technical writing on agent development, system design, and production deployments | HTML | 2026-06-24 |
-| NYPD_Shooting_Prediction | Machine learning classification model; achieved [X]% accuracy predicting shooting incidents for public safety analysis | Jupyter Notebook | 2023-05-10 |
-| Personal_Projects | Production systems and completed projects: [list 2-3 most impressive: agent systems, APIs, data pipelines, or other relevant work] | PHP | 2023-05-10 |
-| Coding-Games | Algorithm and system design practice through competitive coding challenges | Python | 2022-11-22 |
+### What I've been building
 
----
+- **SQL Convention Agent** — encodes a codebase's unwritten SQL conventions (audit logging, naming, trigger generation) so a Copilot agent applies them automatically. Cut routine scripts from ~20 minutes to under 10; a 30-40 hour complex FK-backfill estimate to about half.
+- **ADA/WCAG Compliance Agent** — reviews code file-by-file, converts to semantic HTML, and proposes accessibility fixes with the specific WCAG rule each one satisfies. A 10-file, 50+-change sample took ~30 minutes with the agent vs. an estimated 3 hours by hand.
+- **AI-Assisted Trading Indicators** — a custom Claude Skill for Pine Script development (this repo: [AI-Skill-Vault](https://github.com/jescamilla1/AI-Skill-Vault)) that catches likely bugs before they ship. Built a dynamic support/resistance tool used by a 3,000+ member Discord community, plus a harmonic-pattern detector built from scratch.
+- **[soccer-model-vs-market](https://github.com/jescamilla1/soccer-model-vs-market)** — a from-scratch Elo/Poisson/logistic-regression prediction stack for the 2026 World Cup, backtested against 45,000+ historical matches, compared against Kalshi's market price.
 
-**Suggested Profile README (to accompany the above):**
+### Background
 
-## About Me
+- B.S. Computer Science, New Jersey Institute of Technology (2023)
+- Anthropic certified: *AI Fluency: Framework & Foundations*, *Teaching AI Fluency* (2026)
+- Mentor a developer I hired through a university capstone program I led
 
-AI engineer focused on building **production agent systems** that solve real-world problems—not toy demos. Full-stack background enables end-to-end system design: from agent prompt engineering and LLM orchestration to deployment and monitoring.
+### Repositories
 
-### Recent Work
-- Built [agent system name/type]: [1-2 sentence impact: what problem, what result]
-- [2-3 additional concrete projects with metrics if available]
-- Active: Jun 2026 (97% commit activity)
-
-### Skills
-- LLM Orchestration & Prompt Engineering
-- Agent System Architecture
-- Python, [other languages], [relevant frameworks]
-- Production Deployment
-
----
+| Repo | What it is |
+| --- | --- |
+| [soccer-model-vs-market](https://github.com/jescamilla1/soccer-model-vs-market) | World Cup prediction dashboard — Elo, Poisson, and logistic-regression models, backtested honestly against real history |
+| [AI-Skill-Vault](https://github.com/jescamilla1/AI-Skill-Vault) | Production-grade Claude Skills for AI agents — Pine Script development skill, plus the harmonic-pattern indicator it was used to build |
+| [jescamilla1.github.io](https://github.com/jescamilla1/jescamilla1.github.io) | Portfolio site and technical writing on agent development |
+| [NYPD_Shooting_Prediction](https://github.com/jescamilla1/NYPD_Shooting_Prediction) | Decision-tree classifier predicting shooting-incident fatality from NYPD public safety data (78.5% accuracy) — university project |
+| [Personal_Projects](https://github.com/jescamilla1/Personal_Projects) | Older personal/coursework projects — a lexical analyzer, a PHP arcade site, a weather-data scraper, facial recognition |
+| [Coding-Games](https://github.com/jescamilla1/Coding-Games) | Terminal Python games (2048, Minesweeper, 8-puzzle) written to demonstrate basic programming concepts |
