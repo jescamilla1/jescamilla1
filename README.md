@@ -4,7 +4,7 @@ I build AI agents that close real engineering bottlenecks — not demos. Softwar
 
 I don't trust a fix until I know why it works — three years shipping production software is what makes these agents hold up outside a demo.
 
-**[joan's portfolio & writing →](https://jescamilla1.github.io)** · [LinkedIn](https://www.linkedin.com/in/jescamilla1/)
+**[Check out my Portfolio Blog](https://jescamilla1.github.io)** · [LinkedIn](https://www.linkedin.com/in/jescamilla1/)
 
 ### What I've been building
 
