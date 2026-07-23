@@ -1,8 +1,15 @@
 ### Hi, I'm Joan Escamilla
 
-I build AI agents that close real engineering bottlenecks — not demos. Software Engineer at **RDE Systems**, where I'm the subject matter expert on the Medication Adherence module of an HIV/AIDS electronic medical records platform.
+AI Agent Developer focused on production-grade systems. Experience building and deploying agents that solve real problems—not prototypes or demos. Background in full-stack development provides end-to-end perspective on integrating agents into live systems.
 
-I don't trust a fix until I know why it works — three years shipping production software is what makes these agents hold up outside a demo.
+### Focus Areas
+- LLM agent design and orchestration
+- Multi-step reasoning workflows
+- Production deployment patterns
+- Data-driven systems
+
+Based in NYC Metro Area.
+
 
 **[Check out my Portfolio Blog](https://jescamilla1.github.io)** · [LinkedIn](https://www.linkedin.com/in/jescamilla1/)
 
