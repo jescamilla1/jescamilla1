@@ -11,7 +11,7 @@ AI Agent Developer focused on production-grade systems. Experience building and 
 Based in NYC Metro Area.
 
 
-**[Check out my Portfolio Blog](https://jescamilla1.github.io)** · [LinkedIn](https://www.linkedin.com/in/jescamilla1/)
+**[Check out my Portfolio Blog](https://joanescamilla.com)** · [LinkedIn](https://www.linkedin.com/in/jescamilla1/)
 
 ### What I've been building
 
